@@ -9,5 +9,9 @@ From the graphs and matrices plotted, we can see that the conversion rate was hi
 The conversion rate was also higher in users who had used the platform within the past 2 months.
 Furthermore, the customer conversion is highest in suburban areas, and among users who have used discounts previously.
 
+# Future plan
+- Uplift modeling: Identify customer behaviour from the data. This can be useful when identifying groups to target for promotions and marketing.
+- Visualization using PowerBI: Visualise the data in PowerBI.
+
 # Acknowledgements
 - Dataset used: https://www.kaggle.com/datasets/davinwijaya/customer-retention
