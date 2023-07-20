@@ -9,8 +9,11 @@ From the graphs and matrices plotted, we can see that the conversion rate was hi
 The conversion rate was also higher in users who had used the platform within the past 2 months.
 Furthermore, the customer conversion is highest in suburban areas, and among users who have used discounts previously.
 
+# Uplift modeling
+A Qini curve used to evaluate the performance of a model that predicts the incremental impact of a marketing or treatment campaign on individuals. A steeper Qini curve indicates that the uplift model is better at identifying individuals who are most likely to respond positively to the treatment compared to a random model or a less effective uplift model. In this notebook, the second section attempts to use uplift modeling to identify groups which are more likely to respond to the offers,
+i.e. BOGO and discounts. The Qini curve plotted is used to evaluate the accuracy of the models.
+
 # Future plan
-- Uplift modeling: Identify customer behaviour from the data. This can be useful when identifying groups to target for promotions and marketing.
 - Visualization using PowerBI: Visualise the data in PowerBI.
 
 # Acknowledgements
